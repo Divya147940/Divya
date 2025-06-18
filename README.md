@@ -1,3 +1,3 @@
 # Divya
 this is my first repository
-author --Divyanshi verma
+author --Divyanshi(appna collage) verma
